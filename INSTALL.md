@@ -64,3 +64,5 @@ npm -v
 7. Assure all packages and tools are updated to the latest release versions
 > Having the latest release version assures that you have all of the newest features and bug fixes for each tool to assure for the most seamless developer experience.
 
+
+Next Section: [Introduction to DFX](./INTRO-TO-DFX.md)

@@ -10,3 +10,5 @@
 - [Week 1](https://docs.google.com/presentation/d/1R8fC8Cl5ZeSQMLGInlGpzqBj233N6x3EFNzVlSiQUlA/edit?usp=sharing) - Introduction to the Internet Computer.
 - [Week 2](https://docs.google.com/presentation/d/1sR8b-JFc3OiYUt2p0hV852f02s6HvU6_MvE28DRtPE4/edit?usp=sharing) - DAOs and Tokenomics
 - [Week 3](https://docs.google.com/presentation/d/1LqcGnpuu7ABDePFYESN2uZBvv2oVAzY7Qk1cs6CH_7w/edit?usp=sharing) - Building on the Internet Computer
+- [Week 4](https://docs.google.com/presentation/d/1nMlkm89NgSMkpRE6avFY2cYxJczUK0yMZag8iDf1lK8/edit?usp=sharing) - Beginners Guide to Ideathons
+- [Week 5](./INTRO-TO-DFX.md)
