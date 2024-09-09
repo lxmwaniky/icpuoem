@@ -17,3 +17,5 @@ dfx new hello_world
 - Lastly, you can include extra features to be added to your project:
 
 ![internet identity](./assets/image3.png)
+
+Next Section: [Introduction to Motoko](./INTRO-TO-MOTOKO.md)
