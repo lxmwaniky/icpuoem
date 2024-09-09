@@ -9,8 +9,11 @@ All dapps on ICP start off as projects. Projects are created using the `dfx` com
 dfx new hello_world
 ```
 - You will be prompted to select the language that your backend canister will use:
+
 ![backend canister](./assets/image.png)
 - Then, select a frontend framework for your frontend canister. In this example, select:
+
 ![frontend canister](./assets/image2.png)
 - Lastly, you can include extra features to be added to your project:
+
 ![internet identity](./assets/image3.png)
