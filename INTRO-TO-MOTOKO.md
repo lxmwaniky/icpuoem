@@ -100,4 +100,4 @@ actor {
 }
 ```
 
-## Values and Evaluation
+Next Section: [Building a dApps](./BUILDING-DAPP.md)
